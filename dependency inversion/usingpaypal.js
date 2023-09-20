@@ -1,6 +1,3 @@
-// prices changes pricing and we switch to paupal
-// Also refred to adapter pattern
-// you don't want high level code to depend on low level implementation e.g how a specific payment gateway works
 class Store {
     constructor(user) {
         this.paypal = new Paypal();

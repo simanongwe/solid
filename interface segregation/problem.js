@@ -1,0 +1,1 @@
+// Everything that uses an interface should implement all of the interface
